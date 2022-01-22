@@ -28,10 +28,10 @@ import webbrowser
 import os
 
 #Acessing twitter API using credentials
-consumer_key = 'tXJdA05ELVs6TB9A9h8kcfZCo'
-consumer_secret = 'N7pR1jBTzLVJ4Rl7NtxVPXDe49THoIYCjZmUX4eXLuF0WA7kSY'
-access_token = '1450880432191377408-2ODinrYbpnqJHPZcSeXojsfieoQgJY'
-access_token_secret= 'Y1c8WDMbiaROZXMwXT4YD8ZL0uVIABCMG30W7renvlhHp'
+consumer_key = 'XXX'
+consumer_secret = 'XXX'
+access_token = 'XXX'
+access_token_secret= 'XXX'
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
